@@ -4,9 +4,9 @@
 <p>
 <br>
 
-- **I'm currently working on:** A soon to be announced solo indie game and a personal website!
+- **I'm currently working on:** A soon-to-be-announced solo indie game!
 - **I’m currently learning:** Unity (C#), C, C++, Zig, OpenGL, Vulkan, Linux
-- **I'm already familiar with:** Python, C#, Full Stack Web Dev (HTML, CSS, JS, Node)
-- **I'm planning to learn:** Go, Nim, Godot
+- **I'm already familiar with:** Python, C#, Full Stack Web Dev (HTML, CSS, JS, Node), Godot
+- **I'm planning to learn:** Go, Nim
 - **How to reach me:** [DM me on Twitter!](https://twitter.com/eilume)
 - **Pronouns:** he/him
